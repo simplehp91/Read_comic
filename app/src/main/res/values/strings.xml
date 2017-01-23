@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ReadComicActivity!</string>
+    <string name="app_name">Comic Reader</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="download">Download</string>
+    <string name="url">Enter URL</string>
+    <string name="filename">"Enter filename : "</string>
+    <string name="miopen">File Open</string>
+    <string name="migoto">Go to</string>
+    <string name="midownload">Download</string>
+    <string name="browser">Browser</string>
+    <string name="mimode">Mode</string>
+    <string name="misetting">Setting</string>
+    <string name="setting">Configuration Application</string>
+    <string name="selectlanguage">Select language</string>
+
+</resources>

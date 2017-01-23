@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_339cabedb2f087df6e388a11dedff483f7b3b383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_fa33e697029ca8871608d0dd10b5b70bf5c66f0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c0fa99bb8e88a7d1321940d26bf7c952a59c595a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_10f8710e592e98f653e0f68919e98293bbd5ea37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89856f2df2f495bd327ba0188d8b57d2c898da5d">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d3a839714e00eabf025a7f66909b8f0feaa848ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ed48a04a09155be9fa965baf6094071f386d4c34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f308d345313405fc8f1f7ede84fb42d3c5b631c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a34ff973980bf92cb56ad973705dd591e11dac8">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1136060769658ea05ac95789f21d7a45e8ec8d42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_81ebfb80d78d76727520381cd2a531d9929c72b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_835b87000ace717b470172ccf597ac93e4c71f8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a1b476b085dee41718308ef0685ad3fc1bb50b46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d05323048c06089795443f2160f3008ce053dc6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_0a37532a29215c50729f06fd80b060a85754ec98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_fe48c79e9af92d0a588a73b697b4424088c7fb68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_3d3aea159b82353e4de37296bf550b56cfb30a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_3513f0ade53c7e3cb2a98ce11d58fbc97ef48c94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/nguyenhiep/AndroidStudioProjects/ReadComic_16CM0209/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4dd4d03aa194d3731e620b57dc0b71758de4d782/classes.dex" />
+    </item>
+
+</items>

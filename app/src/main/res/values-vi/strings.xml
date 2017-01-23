@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ReadComicActivity!</string>
+    <string name="app_name">Comic Reader</string>
+    <string name="back">Trở về</string>
+    <string name="next">Kế tiếp</string>
+    <string name="download">Tải về</string>
+    <string name="url">Nhập URL</string>
+    <string name="filename">Nhập tên tệp tin </string>
+    <string name="miopen">Mở file</string>
+    <string name="migoto">Đi đến trang</string>
+    <string name="midownload">Tải về</string>
+    <string name="browser">Duyệt</string>
+    <string name="mimode">Căn chỉnh</string>
+    <string name="misetting">Cài đặt</string>
+    <string name="setting">Cấu hình ứng dụng</string>
+    <string name="selectlanguage">Lựa chọn ngôn ngữ</string>
+
+</resources>
