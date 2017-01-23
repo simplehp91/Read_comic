@@ -1,1 +1,1 @@
-# Read_comic
+Demo android application Read Comic
